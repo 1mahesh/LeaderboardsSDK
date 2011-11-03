@@ -1,0 +1,4 @@
+# Ignore build and obj directories
+LeaderboardSDK\Bin\*
+LeaderboardSDK\obj\*
+LeaderboardSDKTest\*

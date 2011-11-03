@@ -1,0 +1,15 @@
+Download the Visual Studio 2010 project.
+Include with your WP7 project
+
+Sample Usage:
+
+Initialize a new context.
+
+LeaderboardContext ctx = new LeaderboardContext("YOURDEVKEY", "YOURSECRETKEY");
+
+
+Call necessary API.
+ctx.AddScore()..
+
+
+Please refer to http://lb.anishoo.com/apidocs.php for complete reference.
