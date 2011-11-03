@@ -1,5 +1,0 @@
-d:\users\anisha\documents\visual studio 2010\Projects\LeaderboardSDK\LeaderboardSDK\Bin\Debug\LeaderboardSDK.dll
-d:\users\anisha\documents\visual studio 2010\Projects\LeaderboardSDK\LeaderboardSDK\Bin\Debug\LeaderboardSDK.pdb
-d:\users\anisha\documents\visual studio 2010\Projects\LeaderboardSDK\LeaderboardSDK\obj\Debug\ResolveAssemblyReference.cache
-d:\users\anisha\documents\visual studio 2010\Projects\LeaderboardSDK\LeaderboardSDK\obj\Debug\LeaderboardSDK.dll
-d:\users\anisha\documents\visual studio 2010\Projects\LeaderboardSDK\LeaderboardSDK\obj\Debug\LeaderboardSDK.pdb
