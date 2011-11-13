@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010 Express for Windows Phone
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeaderboardSDK", "LeaderboardSDK\LeaderboardSDK.csproj", "{228098AF-D88C-4425-9F24-34ADDF7487D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeaderboardSDKTest", "LeaderboardSDKTest\LeaderboardSDKTest.csproj", "{1F67C178-C0D4-440A-88A0-448D23338CE2}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,12 +13,6 @@ Global
 		{228098AF-D88C-4425-9F24-34ADDF7487D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{228098AF-D88C-4425-9F24-34ADDF7487D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{228098AF-D88C-4425-9F24-34ADDF7487D1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1F67C178-C0D4-440A-88A0-448D23338CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1F67C178-C0D4-440A-88A0-448D23338CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1F67C178-C0D4-440A-88A0-448D23338CE2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{1F67C178-C0D4-440A-88A0-448D23338CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1F67C178-C0D4-440A-88A0-448D23338CE2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1F67C178-C0D4-440A-88A0-448D23338CE2}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
